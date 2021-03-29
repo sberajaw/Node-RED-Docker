@@ -6,7 +6,10 @@
         "@cloudnative/health-connect": "^2.0.0",
         "express": "4.17.1",
         "node-red": "^1.0.0",
-        "node-red-dashboard" : "^2.16.3"
+        "node-red-dashboard" : "^2.16.3",
+        "node-red-contrib-uibuilder" : "^3.2.1",
+        "node-red-contrib-http-logger" : "^2.0.1",
+        "node-red-node-google" : "^0.2.2"
     },
     "devDependencies": {
         "chai": "^4.2.0",
